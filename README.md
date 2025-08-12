@@ -34,15 +34,12 @@ Os principais casos de uso identificados são:
 2. Inscrição em Evento  
 3. Emissão de Certificado  
 
-Mais detalhes no arquivo [`casos-de-uso.md`](casos-de-uso.md).
 
 ## 🧠 Modelo Conceitual
 O modelo conceitual apresenta as classes de análise, atributos e relacionamentos.  
-Veja mais em [`modelo-conceitual.md`](modelo-conceitual.md).
 
 ## 🛠️ Tecnologias Utilizadas
 - Documentação em Markdown
-- Diagramas elaborados com Astah
 - Repositório hospedado no GitHub
 
 ## 👨‍💻 Equipe
