@@ -1,7 +1,6 @@
 # Modelo Conceitual – EventAcad
 
 ## Diagrama de Classes de Análise
-![Diagrama de Classes](diagrama-classes.png)
 
 ## Descrição das Classes
 
@@ -31,4 +30,4 @@
 
 ---
 
-**Observação:** As cardinalidades seguem o diagrama ER do estudo de caso original, adaptado para análise orientada a objetos.
+Obs: eu fiz isso de cabeça não consegui fazer a imagem.
